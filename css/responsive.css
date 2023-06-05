@@ -1,0 +1,158 @@
+@media(max-width: 1240px){
+    .container{max-width: 980px;}
+    .second-btn{width: 32%;}
+    .head{font-size: 50px;}
+}
+@media(max-width: 1023px){
+    .container{max-width: 830px;}
+    .heading{font-size: 52px;}
+    .paragraph{font-size: 12px;}
+    .main-btn{width: 45%;}
+    .main-btn a{font-size: 14px;}
+    .review-content{font-size: 17px;}
+    .head {
+        font-size: 40px;
+    }
+    /* .mobilemenu .menu{display: none;} */
+}
+@media(max-width: 988px){
+    .time-img{ display: inline-block;}
+    .time-photo{text-align: center;}
+    .thirdsection-time{text-align: center;}
+    .second-btn{width: 30%;}
+    .tour-guide{text-align: center;}
+}
+@media(max-width: 829px){
+    .container{max-width: 750px;}
+}
+@media(max-width: 767px){
+	.container{max-width: 450px;}
+	.picture-count{width: 49%;}
+	.mobilemenu .menu{display: block; z-index: 999999999;}
+	.first-menu-list{display: none !important;}
+    .time-img{width: 90%; display: inline-block;}
+    .second-btn{width: 39%;}
+}
+@media(max-width: 767px){
+    .logo{width: 13%;}
+    .container{max-width: 480px;}
+    .heading{font-size: 61px;}
+    .paragraph{display: none;}
+    .main-btn{width: 73%;}
+    .main-btn a{font-size: 14px;}
+    .review-content{font-size: 17px;}
+    .sec-menu{display: none;}
+    .email{width: 65%;}
+}
+@media(max-width:540px){
+    .container{padding: 12px;}
+    .main-btn{width: 50%;
+        padding: 0 0;}
+    .main-btn a{font-size: 12px;}
+    .firstsection-banner .slick-dots li button{
+        height: 16px;
+        width: 16px;
+    }
+}
+@media(max-width:522px){
+    .container{padding: 12px;}
+    .heading{font-size: 30px;}
+    .main-btn{width: 50%;
+        padding: 0 0;}
+    .main-btn a{font-size: 12px;}
+    .firstsection-banner .slick-dots li button{
+        display: none;
+    }
+    .paragraph{display: none;}
+    .banner-backgroundimages .slick-prev{
+        display: none !important;
+    }
+    .banner-backgroundimages .slick-next{
+        display: none !important;
+    }
+    .time-img{width: 72%; display: inline-block;}
+    .head{font-size: 27px;}
+    .para1{font-size: 14px;}
+    .second-btn{width: 39%;}
+    .caption{font-size: 27px;}
+    .smallphoto{display: none;}
+}
+@media(max-width:520px){
+    .review-content{width: 50%;}
+}
+@media(max-width: 479px){
+    .container{padding: 0 12px;}
+    .paragraph{font-size: 12px;}
+    .main-btn{width: 50%;}
+    .main-btn a{font-size: 12px;}
+    .review-content{font-size: 15px;}
+    .sec-menu{display: none;}
+
+}
+@media(max-width: 479px){
+    .second-btn{width: 44%;}
+    .deep-btn a{font-size: 12px;}
+}
+
+@media(max-width: 412px){
+    .paragraph{    font-size: 9px; margin-bottom: 0;}
+    .banner-content{padding-left: 10px;}
+    .main-btn{width: 43%; font-size: 0;line-height: 0;  padding: 5px 0;}
+    .main-btn a{font-size: 10px;}
+    .card-photo{width: 75px;}
+    .slider-content{font-size: 12px; margin-bottom: 5px;}
+    .author{font-size: 16px;}
+}
+@media(max-width: 393px){
+    .review-content{width: 36%;}
+    .heading{margin-bottom: 4px;}
+    .second-btn{width: 48%;}
+}
+@media(max-width:388px){
+    .review-content{width: 60%;}
+}
+@media(max-width: 375px){
+    .container{padding: 0 15px;}
+    .review-content{width: 42%;}
+    .paragraph{ font-size: 8px;}
+    .main-btn a{font-size: 9px;}
+    .main-btn{width: 50%;}
+    .card-photo{width: 60px;}
+}
+@media(max-width: 365px){
+    .second-btn{width: 52%;}
+}
+@media(max-width: 352px){
+    .first-menu{padding: 6px;} .review-content{width: 54%;} 
+}
+@media(max-width: 329px){
+    .second-btn{width: 58%;}
+}
+@media(max-width:312px){
+    .review-content{width: 62%;
+    transform: translate(30%, -50%);}
+}
+@media(max-width: 309px){
+    .main-btn{width: 60%;}
+    .second-btn a{font-size: 14px;}
+}
+@media(max-width:300px){
+    .review-content{width: 72%;}
+}
+
+@media(max-width:280px){
+    .review-content{width: 47%;}
+    .slider-content{font-size: 9px; margin-bottom: 5px;}
+    .author{font-size: 10px;}
+    .card-photo{height: 34px; width: 34px;}
+    .title-h{    font-size: 11px;}
+    .title-p{font-size: 10px;}
+    .banner-second-slider {
+        width: 42%;
+        padding-right: 10px;
+    }
+    .heading{    font-size: 14px;
+        margin-bottom: 1px;}
+        .paragraph{font-size: 6px;}
+        .main-btn a{font-size: 6px;}
+}
